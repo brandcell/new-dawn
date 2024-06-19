@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Local Changes",
+            "text": "Hello from git",
             "text_style": "body"
           }
         },
